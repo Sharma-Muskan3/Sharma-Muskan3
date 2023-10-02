@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sharma-Muskan3
 - 👀 I’m interested in generating solutions to the problems.
 - 🌱 I’m currently learning  full stack web development 
-- 💞️ I’m looking to collaborate on projects based on we development.
+- 💞️ I’m looking to collaborate on projects based on web development.
 - 📫 How to reach me ...
 
 <!---
